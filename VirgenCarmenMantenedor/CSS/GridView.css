@@ -1,0 +1,167 @@
+﻿/*body
+{
+	margin:10px auto 0;
+	padding:0;
+    text-align:center;
+    text-decoration: none;
+	font:normal 11px arial, tahoma, helvetica, sans-serif;
+}*/
+
+/*.letranormal 
+{color:#000000;
+ font-size: 8pt;
+ font-style:normal;
+ font-weight:normal}*/
+
+/*.gridcontainer  
+{
+    border: solid 1px #99BBE8;
+    border-top-width:0px;
+    width: 75%;
+}*/
+
+.grid {
+    margin: 0 auto;
+    border-width: 1px;
+}
+
+    .grid caption {
+        background-color: #ed1b2e;
+        color: #FFFFFF;
+        text-align: center;
+        line-height: 22px;
+        font-size: 10px;
+        font-weight: bold;
+        padding-top: 4px;
+    }
+    /*background:#f9f9f9 url(../Imagenes/GridView/captionbckg.gif) repeat-x;*/
+
+    /*color:#15428B;*/
+
+    /*padding-left:4px;*/
+    /*font-family:Arial;
+
+
+.grid table 
+{
+	border-color:#b9b9b9;
+	border-width:1px;
+}
+*/
+
+    .grid td, .grid th {
+        height: 18px;
+        vertical-align: middle;
+    }
+
+    .grid th {
+        /*background:transparent url(../Imagenes/GridView/thbackground.gif) repeat-x;*/
+        background-color: #505050;
+        height: 19px;
+        border: solid 1px #b9b9b9;
+  
+        color: #FFFFFF;
+        text-align: center;
+        font-size: 12px;
+        font-weight: bold;
+    }
+
+    /*.grid td
+{*/
+    /*border:1px solid #ededed;*/
+    /*border:1px solid #b9b9b9;
+    border-top-color:#fff;
+    width:100%;
+    cursor:default;
+	background-color:#FFFFFF;
+    color:#8e8e8e;
+    font-family:Arial;
+    font-size:11px;
+}*/
+
+    .grid .row {
+        /*border:1px solid #ededed;*/
+        border: 1px solid #b9b9b9;
+        border-top-color: #fff;
+        cursor: default;
+        background-color: #FFFFFF;
+        color: #8e8e8e;
+        font-family: Arial;
+        font-size: 11px;
+    }
+
+        .grid .row:hover {
+            background-color: #ed1b2e;
+            color: #FFFFFF;
+        }
+
+    .grid .altrow {
+        border: 1px solid #b9b9b9;
+        border-top-color: #fff;
+        /*width:100%;*/
+        cursor: default;
+        background-color: #dededc;
+        color: #8e8e8e;
+        font-family: Arial;
+        font-size: 11px;
+    }
+
+        .grid .altrow:hover {
+            background-color: #ed1b2e;
+            color: #FFFFFF;
+        }
+
+
+/*.selectedrow 
+{
+	background: #DFE8F6;
+	border:1px dotted #A3BAE9;
+}*/
+
+
+
+
+.pagerstyle {
+    font-size: 12px;
+    text-align: center;
+    color: #8e8e8e;
+    vertical-align: text-top;
+    border: solid 1px #b9b9b9;
+}
+
+.gopag {
+    font-size: x-small;
+    width: 20px;
+}
+
+.pagprev {
+    background: transparent url(../Imagenes/GridView/ico_previous.gif) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border: 1px;
+}
+
+.pagnext {
+    background: transparent url(../Imagenes/GridView/ico_next.gif) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border: 1px;
+}
+
+.pagfirst {
+    background: transparent url(../imagenes/GridView/ico_first.gif) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border:1px;
+}
+
+.paglast {
+    background: transparent url(../Imagenes/GridView/ico_last.gif) no-repeat scroll center;
+    height: 1.3em;
+    width: 16px;
+    cursor: pointer;
+    border: 1px;
+}

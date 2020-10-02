@@ -1,0 +1,58 @@
+﻿#id_codventa, #id_tipocambio, #id_serie, #id_numero, #id_importe {
+    width: 170px;
+}
+
+#l_codventa, #l_tipocambio, #l_serie, #l_numero, #l_cliente, #l_vendedor, #l_motivo, #l_importe {
+    margin-right: 5px;
+}
+
+#id_subtotal, #id_recargo, #id_descuento, #id_igv, #id_total {
+    width: 90px;
+}
+
+#l_subtotal, #l_recargo, #l_descuento, #l_igv, #l_total {
+    margin-right: 2px;
+    width: 69px;
+}
+
+
+#id_motivo_m, #id_motivo2_m {
+    width: 100px;
+    margin-right: 1px;
+}
+
+#id_codigoventa_m {
+    width: 200px;
+}
+
+#id_original_m_p, #id_cantidad_m_p {
+    width: 100px;
+}
+
+#l_original_m_p, #l_cantidad_m_p {
+    margin-right: -8px;
+}
+
+#l_l {
+    width: 80px;
+}
+
+#l_1 {
+    background: red;
+    width: 100px;
+}
+
+#l_2 {
+    background: orange;
+    width: 100px;
+}
+
+#l_3 {
+    background: blue;
+    width: 100px;
+}
+
+#l_4 {
+    background: black;
+    width: 100px;
+}

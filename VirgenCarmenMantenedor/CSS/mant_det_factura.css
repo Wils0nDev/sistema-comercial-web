@@ -1,0 +1,152 @@
+﻿.box-header {
+    margin-bottom: 50px;
+}
+.form-group.sub-titulo{
+    margin-bottom: 35px;
+}
+#codFactura {
+    width: 47%;
+}
+#lblcodFactura{
+    width: 45%;
+}
+label#lblcodCliente {
+    width: 22%;
+}
+
+input#codCliente {
+    width: 70%;
+}
+label#lblNumDoc {
+    width: 18%;
+}
+input#id_documento {
+    width: 77%;
+}
+label#lblcodVendedor {
+    width: 11%;
+}
+
+select#vendedores {
+    width: 85%;
+}
+label#fecharegistro {
+    width: 11%;
+    margin-right: 5px;
+}
+#btnBuscar {
+    float:right;
+}
+
+div#MmensajeOrdenFecha {
+    width: 100%;
+   
+}
+p#MpmensajeOrden {
+    padding-top: 10px;
+}
+p#pDoc {
+    float: right;
+    margin-right: 360px;
+    font-size: 14px;
+}
+
+p#pFactura {
+    float: right;
+    margin-right: 357px;
+    font-size: 14px;
+}
+
+p#pCLiente {
+    float: right;
+    margin-right: 270px;
+    font-size: 14px;
+}
+
+p#pRazonS {
+    float: right;
+    margin-right: 200px;
+    font-size: 14px;
+}
+
+p#pVendedor {
+    float: right;
+    margin-right: 217px;
+    font-size: 14px;
+}
+
+p#pImporte {
+    float: right;
+    margin-right: 380px;
+    font-size: 14px;
+}
+
+.form-group.import-pago {
+    width: 30%;
+    display:none;
+}
+
+div#divvuelto {
+    float: right;
+    margin-top: -74px;
+    margin-right: 200px;
+}
+
+p#pigv {
+    float: right;
+    margin-right: 380px;
+    font-size: 14px;
+}
+
+button#btnGuardar {
+    float: right;
+}
+
+#divCronograma {
+    padding: 15px;
+    border-bottom: 1px solid #e5e5e5;
+}
+
+th.titletb {
+    font-size: 10px;
+}
+
+div#tb_cronograma_prestamo_filter {
+    margin-left: -100px;
+}
+
+#tbl_body_cronograma_prestamo > tr > td {
+    font-size: 10px;
+}
+#tbl_body_table_documento_venta, tr, td {
+    text-transform: uppercase   ;
+}
+#codDocumento {
+    width: 50%;
+}
+#codSerie {
+    width: 55%;
+}
+#codEstado {
+    width: 55%;
+}
+#codNumDoc {
+    width: 55%;
+}
+#min-date {
+    width: 90%
+}
+
+#max-date {
+    width: 90%
+}
+
+#fech-pago {
+    width: 93%
+}
+
+.img.ui-datepicker-trigger {
+    width: 37px;
+    float: right;
+    margin-top: -34px;
+}

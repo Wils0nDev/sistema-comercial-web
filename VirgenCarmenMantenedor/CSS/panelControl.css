@@ -1,0 +1,146 @@
+﻿
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    z-index:-2;
+}
+
+li {
+    list-style: none;
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+nav {
+    z-index:100 !important;
+}
+
+
+
+
+.barra {
+    display: flex;
+    width: 100%;
+    height: 46px;
+    -webkit-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    -moz-box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    box-shadow: 0px 2px 3px -1px rgba(0,0,0,0.75);
+    margin-top:-20px;
+    z-index:100;
+}
+
+
+.barra {
+    width: 100%;
+    height: 45px;
+    background: white;
+    display: flex;
+    position: relative;
+}
+
+.lista_horizontal {
+    display: flex;
+    flex-wrap: wrap;
+    width: auto;
+    height: 45px;
+    margin: auto;
+    background: rgb(255, 255, 255);
+}
+
+.horizontal_item {
+    width: auto;
+    list-style: none;
+    position: relative;
+}
+
+    .horizontal_item::before {
+        left: 0px;
+        top: 10px;
+        height: 45%;
+        width: 1px;
+        content: "";
+        background: rgba(0.20, 0.23, 0.25,0.10);
+        position: absolute;
+    }
+
+    .horizontal_item:first-child::before {
+        display: none;
+    }
+
+.horizontal_link {
+    display: block;
+    height: 100%;
+    padding: calc(55px/5);
+    text-align: center;
+    text-decoration: none;
+}
+
+    .horizontal_link:hover, .barra_link:hover, .submenu_link:hover {
+        background: rgba(0.20, 0.23, 0.25,0.10);
+        transition: ease 2s;
+    }
+
+.horizontal_item:hover .lista_vertical {
+    display: block;
+   
+}
+
+/* menu vertical */
+
+.lista_vertical {
+    position: absolute;
+    height: auto;
+    width: 17vw;
+    border: solid 1px rgba(0.20, 0.23, 0.25,0.09);
+    line-height: 2;
+    display: none;
+    z-index: 1;
+    background: white;
+    transition: all 3s;
+}
+
+
+.barra_item {
+    border-bottom: solid 1px rgba(0.20, 0.23, 0.25,0.09);
+}
+
+    .barra_item:last-child {
+        border-bottom: none;
+    }
+
+.barra_link {
+    display: block;
+    padding: calc(55px/10);
+}
+
+.barra_item:hover .submenu {
+    display: block;
+    transition: all 1s;
+}
+
+
+.submenu {
+    position: absolute;
+    height: auto;
+    width: 17vw;
+    border: solid 1px rgba(0.20, 0.23, 0.25,0.09);
+    display: none;
+    margin-left: 223px;
+    margin-top: -43px;
+    background:white;
+}
+
+.submenu_item {
+    border-bottom: solid 1px rgba(0.20, 0.23, 0.25,0.09);
+}
+
+.submenu_link {
+    display: block;
+    padding: calc(55px/12);
+}

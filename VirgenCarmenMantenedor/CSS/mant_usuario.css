@@ -1,0 +1,20 @@
+﻿
+.label-default.horizontal {
+    margin-right: 20px;
+    width: 115px;
+}
+
+.form-group.col-xs-12{
+    position: relative;
+    min-height: 1px;
+    padding-right: 2px;
+    padding-left: 2px;
+}
+
+.form-group.col-xs-6-1{
+    position: relative;
+    min-height: 1px;
+    padding-right: 15px;
+    padding-left: 1220px;
+}
+   

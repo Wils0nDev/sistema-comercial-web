@@ -1,0 +1,440 @@
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\bin\Debug\CAD.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\bin\Debug\CAD.pdb
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\bin\Debug\CEN.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\bin\Debug\CEN.pdb
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\obj\Debug\CAD.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CAD\obj\Debug\CAD.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\bin\Debug\CAD.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\bin\Debug\CAD.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\bin\Debug\CEN.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\bin\Debug\CEN.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\obj\Debug\CAD.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CAD\obj\Debug\CAD.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\bin\Debug\CAD.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\bin\Debug\CAD.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\bin\Debug\CEN.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\bin\Debug\CEN.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\obj\Debug\CAD.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CAD\obj\Debug\CAD.pdb
+E:\repositorios\sistema-comercia-web-local\CAD\bin\Debug\CAD.dll
+E:\repositorios\sistema-comercia-web-local\CAD\bin\Debug\CAD.pdb
+E:\repositorios\sistema-comercia-web-local\CAD\bin\Debug\CEN.dll
+E:\repositorios\sistema-comercia-web-local\CAD\bin\Debug\CEN.pdb
+E:\repositorios\sistema-comercia-web-local\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorios\sistema-comercia-web-local\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorios\sistema-comercia-web-local\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorios\sistema-comercia-web-local\CAD\obj\Debug\CAD.dll
+E:\repositorios\sistema-comercia-web-local\CAD\obj\Debug\CAD.pdb
+E:\Repositorio_Master\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\Repositorio_Master\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\Repositorio_Master\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\Repositorio_Master\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\Repositorio_Master\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\Repositorio_Master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\Repositorio_Master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\Repositorio_Master\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\Repositorio_Master\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Repositorio master\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\Repositorio master\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\Repositorio master\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\Repositorio master\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\Repositorio master\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Repositorio master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Repositorio master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\Repositorio master\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\Repositorio master\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CAD\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar\CAD\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CAD\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar\CAD\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar\CAD\obj\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CAD\obj\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\obj\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CAD\obj\Debug\CAD.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\obj\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto-web\master\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\master\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\master\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\master\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\master\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\master\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\master\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto-web\master\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto-web\master\CAD\obj\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\obj\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CAD\obj\Debug\CAD.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\bin\Debug\CAD.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\bin\Debug\CAD.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\bin\Debug\CEN.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\bin\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\obj\Debug\CAD.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CAD\obj\Debug\CAD.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\bin\Debug\CAD.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\bin\Debug\CAD.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\bin\Debug\CEN.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\bin\Debug\CEN.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\obj\Debug\CAD.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CAD\obj\Debug\CAD.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.csprojResolveAssemblyReference.cache
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\bin\Debug\CAD.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\bin\Debug\CAD.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\bin\Debug\CEN.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\bin\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\obj\Debug\CAD.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CAD\obj\Debug\CAD.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+D:\repo-local\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+D:\repo-local\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+D:\repo-local\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+D:\repo-local\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+D:\repo-local\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+D:\repo-local\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+D:\repo-local\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+D:\repo-local\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+D:\repo-local\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CAD\obj\Debug\CAD.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\bin\Debug\CAD.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\bin\Debug\CAD.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\bin\Debug\CEN.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\bin\Debug\CEN.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\obj\Debug\CAD.csprojAssemblyReference.cache
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CoreCompileInputs.cache
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\obj\Debug\CAD.csproj.CopyComplete
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\obj\Debug\CAD.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CAD\obj\Debug\CAD.pdb

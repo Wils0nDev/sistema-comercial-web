@@ -1,0 +1,332 @@
+﻿
+.form-control {
+    margin-left: 20px;
+    width: 75% !important;
+    
+}
+
+.FilaRegistro label {
+    font-size: 12px;
+    width: 100px;
+    float: left;
+}
+
+.btn-lg {
+    width: 100%;
+    margin: 5px;
+}
+
+.form-group.col-xs-12 {
+    padding: 10px;
+}
+
+.icon-pencil.btnEditar {
+    background-image: url(/Imagenes/editar.png) !important;
+    background-position-y: bottom !important;
+    margin: 5px;
+}
+
+caption {
+    padding-top: 8px;
+    padding-bottom: 8px;
+    text-align: left;
+    font-weight: 600;
+    color: #9e9e9e;
+    font-size: 18px;
+}
+
+
+
+
+.form-control#codigoproducto {
+    width: 500px !important;
+    margin: 10px;
+}
+
+.form-control#descripcionproducto {
+    width: 500px !important;
+    margin: 10px;
+}
+
+.btn-cancel {
+    background: #ff1717 !important;
+    border-color: #de1414;
+}
+.btn-cancel:hover {
+        color: #fff;
+        background-color: #de1414 !important;
+        border-color: #ff1717;
+}
+
+table#GridViewmd {
+    width: 560px;
+}
+
+input#btnbuscar {
+    width: 100px;
+    float: right;
+}
+input#GridViewmd_btn_Cancel_0 {
+    margin: 5px;
+}
+input#GridViewmd_btn_Update_0 {
+    margin: 5px;
+}
+.form-control#codProducto {
+    width: 500px !important;
+    margin: 10px;
+}
+.form-control#DescProducto {
+    width: 500px !important;
+    margin: 10px;
+}
+
+table#GridVie {
+    width: 560px;
+}
+.modalPopup {
+    top: -30px !important;
+}
+
+    .modal-footer.ver-stock {
+margin-top: 60px;
+}
+
+input#fuDocumentoAjuste {
+    margin-top: 5px;
+}
+
+//////////////////////////////////////
+.Oculto {
+    display: none;
+}
+
+.bgspriteb {
+    background-image: url(images/breabcrumd.gif);
+    background-repeat: repeat-x;
+}
+
+.sub-breadcrumb {
+    display: block;
+    background-image: url(images/bg-current-bread.gif);
+    background-position: right;
+    background-repeat: no-repeat;
+    background-color: #ED1B2E;
+    padding: 0 30px 0 20px;
+    height: 29px;
+    font-size: 14px;
+    float: left;
+    color: #fff;
+}
+
+.cnt-titulos {
+    padding: 0;
+    font-size: 14px;
+    color: #fff;
+    text-transform: uppercase;
+    line-height: 29px;
+    font-weight: bold;
+}
+
+.Formulario {
+    width: 100%;
+    border: solid 1px;
+    border-style: dotted;
+    font-family: 'DINRegular', Arial;
+}
+
+.modulo {
+    margin-bottom: 0px;
+    overflow: hidden;
+}
+
+.titu-modulo {
+    border-bottom: solid 1px;
+    margin-bottom: 4px;
+    padding-bottom: -4px;
+    font-family: 'DINRegular', Arial;
+    font-style: normal !important;
+    color: #b62020;
+    background: none;
+    font-size: 12px;
+    padding: 0;
+    padding-top: 10px;
+    margin: 0;
+    font-weight: normal;
+    text-align: left;
+}
+
+.cnt-modulo {
+    padding: 5px;
+    display: block;
+    border-top: 0;
+    overflow: hidden;
+}
+
+.cnt-modulo-none {
+    padding: 10px;
+    display: none;
+    border-top: 0;
+    overflow: hidden;
+}
+
+.CajaRegistro {
+    margin-bottom: 4px;
+    overflow: hidden;
+    width: 150px;
+    text-align: left;
+    float: left;
+}
+
+.LabelCampoPrioritario {
+    font-family: Arial;
+    font-size: 13px;
+    font-weight: bold;
+    color: #8e8e8e;
+    margin-left: 0px;
+}
+
+.TextoCampoMultiline {
+    border: 1px solid #DEDEDA;
+    width: 810px;
+    height: 96px;
+    line-height: 16px;
+    font-size: 12px;
+    font-family: 'DINRegular', Arial;
+    padding: 3px;
+    margin-right: 10px;
+    background-color: #F5F4F3;
+    color: #585a5c;
+    border-radius: 7px;
+    vertical-align: top;
+}
+
+.TextoCampoMultiline500 {
+    border: 1px solid #DEDEDA;
+    width: 500px;
+    height: 64px;
+    line-height: 16px;
+    font-size: 12px;
+    font-family: 'DINRegular', Arial;
+    padding: 3px;
+    margin-right: 10px;
+    background-color: #F5F4F3;
+    color: #585a5c;
+    border-radius: 7px;
+    vertical-align: top;
+}
+
+.RadioCampo {
+    font-size: 12px;
+    font: Arial;
+    color: #585a5c;
+    height: 16px;
+}
+
+.ListBoxMediano {
+    font-size: 12px;
+    font: Arial;
+    color: #585a5c;
+    display: inline-block;
+    padding-left: 7px;
+    padding-right: 0px;
+    width: 220px;
+    margin: 0;
+    overflow: scroll;
+}
+
+.FilaRegistro {
+    margin-bottom: 2px;
+    overflow: hidden;
+    width: 100%;
+}
+
+  
+
+.FilaLabel span {
+    font-family: Arial;
+    font-size: 12px;
+    color: #8e8e8e;
+    text-align: left;
+    width: 150px;
+    float: left;
+    margin: 1px 5px 5px 35px;
+}
+
+.FilaLabel .lblfolder {
+    font-family: Arial;
+    font-size: 12px;
+    color: #8e8e8e;
+    text-align: left;
+    width: 150px;
+    float: left;
+    margin: 1px 5px 5px 5px;
+}
+
+.Centrado {
+    text-align: center;
+}
+
+.TxtGrilla {
+    width: 99%;
+    height: 13px;
+    color: #808080;
+    font-family: Arial, Helvetica;
+    font-size: 12px;
+}
+
+.EnumDisplay {
+    cursor: pointer;
+    border-bottom: solid 1px;
+    margin-bottom: 4px;
+    padding-bottom: -4px;
+    font-family: 'DINRegular', Arial;
+    font-style: normal !important;
+    color: #000;
+    background: none;
+    font-size: 12px;
+    padding: 0;
+    padding-top: 10px;
+    margin: 0;
+    font-weight: bold;
+    text-align: left;
+}
+
+.Upper {
+    text-transform: uppercase;
+}
+
+.cssOculto {
+    display: none;
+    padding: 7px;
+}
+
+.cssVisible {
+    display: block;
+    padding: 7px;
+}
+
+
+.FilaRegistroCheck {
+    margin-bottom: 2px;
+    overflow: hidden;
+    width: 76%;
+}
+
+.FilaRegistroCheck label {
+        font-family: Arial;
+        font-size: 12px;
+        color: #8e8e8e;
+        text-align: left;
+        width: 135px;
+        float: right;
+        margin: 0px 0px 0px 0px;
+}
+.modalBackground {
+    background-color: Black;
+    filter: alpha(opacity=40);
+    opacity: 0.4;
+}
+.btn-primary:hover {
+    box-shadow: 0 0 0px -2px #3b6990;
+}

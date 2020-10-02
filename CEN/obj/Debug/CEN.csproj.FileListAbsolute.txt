@@ -1,0 +1,281 @@
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CEN\bin\Debug\CEN.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CEN\bin\Debug\CEN.pdb
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CEN\obj\Debug\CEN.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CEN\obj\Debug\CEN.pdb
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CEN\bin\Debug\CEN.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CEN\bin\Debug\CEN.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CEN\obj\Debug\CEN.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CEN\obj\Debug\CEN.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CEN\bin\Debug\CEN.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CEN\bin\Debug\CEN.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CEN\obj\Debug\CEN.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CEN\obj\Debug\CEN.pdb
+E:\repositorios\sistema-comercia-web-local\CEN\bin\Debug\CEN.dll
+E:\repositorios\sistema-comercia-web-local\CEN\bin\Debug\CEN.pdb
+E:\repositorios\sistema-comercia-web-local\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorios\sistema-comercia-web-local\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorios\sistema-comercia-web-local\CEN\obj\Debug\CEN.dll
+E:\repositorios\sistema-comercia-web-local\CEN\obj\Debug\CEN.pdb
+E:\Repositorio_Master\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\Repositorio_Master\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\Repositorio_Master\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\Repositorio_Master\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\Repositorio_Master\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Repositorio master\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\Repositorio master\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\Repositorio master\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Repositorio master\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\Repositorio master\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto\sistema-comercial-web-master-local\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto\sistema-comercial-web-master-local\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Repositorio master\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CEN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar\CEN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar\CEN\obj\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar\CEN\obj\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CEN\obj\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CEN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CEN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CEN\obj\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CEN\obj\Debug\CEN.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CEN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CEN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CEN\obj\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto-web\master\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\master\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\master\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\master\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\master\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto-web\master\CEN\obj\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CEN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CEN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CEN\obj\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CEN\obj\Debug\CEN.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\Repositorio_URGENTE\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CEN\bin\Debug\CEN.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CEN\bin\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CEN\obj\Debug\CEN.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CEN\obj\Debug\CEN.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CEN\bin\Debug\CEN.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CEN\bin\Debug\CEN.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CEN\obj\Debug\CEN.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CEN\obj\Debug\CEN.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CEN\obj\Debug\CEN.csprojResolveAssemblyReference.cache
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CEN\bin\Debug\CEN.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CEN\bin\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\pyacila\Downloads\version Alexis 24-04\CEN\obj\Debug\CEN.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CEN\obj\Debug\CEN.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+D:\repo-local\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+D:\repo-local\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+D:\repo-local\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+D:\repo-local\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+D:\repo-local\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+D:\repo-local\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CEN\obj\Debug\CEN.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CEN\bin\Debug\CEN.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CEN\bin\Debug\CEN.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CEN\obj\Debug\CEN.csprojAssemblyReference.cache
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CEN\obj\Debug\CEN.csproj.CoreCompileInputs.cache
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CEN\obj\Debug\CEN.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CEN\obj\Debug\CEN.pdb

@@ -1,0 +1,58 @@
+﻿.form-control {
+    width: 75% !important;
+    float: left;
+    margin-left: 20px;
+}
+input#btnBuscar {
+    width: 100px;
+    float: right;
+}
+.form-group.col-xs-6.report {
+    margin-top: 6px;
+}
+
+.icon-pencil.btnEditar {
+    background-image: url(/Imagenes/editar.png) !important;
+    background-position-y: bottom !important;
+}
+
+.form-control#codProductoActualizar {
+    width: 500px !important;
+    margin: 10px;
+}
+
+.form-control#descProductoActualizar {
+    width: 500px !important;
+    margin: 10px;
+}
+input[type="button"] {
+    border: 0;
+    background-color: #03a9f4;
+    border-color: #2e6da4;
+}
+.modal-footer.mant-precio {
+margin-top: 390px;
+}
+
+input#codProducto {
+    width: 500px !important;
+    margin: 10px;
+}
+input#descProducto {
+    width: 500px !important;
+    margin: 10px;
+}
+
+/*Paginacion */
+table > tbody > tr > td > a {
+    z-index: 3;
+    color: #fff;
+    cursor: default;
+    background-color: #337ab7;
+    border-color: #337ab7;
+    padding: 4px;
+}
+table > tbody > tr > td > a:hover {
+    color: #fff;
+    background-color: #03a9f4;
+}

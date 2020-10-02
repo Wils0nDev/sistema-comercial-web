@@ -1,0 +1,182 @@
+﻿h3#titleRutas {
+    font-size: 30px;
+    font-weight: 600;
+    color: #1b1818;
+}
+h4#titleSelect {
+    font-weight: 600;
+    color: #9e9e9e;
+}
+.row {
+    width: 100%;
+}
+#tb_rutasAsignadas {
+    width: 100% !important;
+}
+
+
+div#MmensajeOrden {
+    transition: opacity 1s ease-out;
+    opacity: 0;
+    height: 0px;
+    width: 30%;
+    border-radius: 5px;
+    line-height: 0px;
+    margin-top: 10px;
+    background-color: #26ea28;
+    margin-left: 5px;
+
+}
+
+p#MpmensajeOrden {
+    margin: 0 0 10px;
+    background-color: transparent;
+    width: 100%;
+    border-radius: 5px;
+    padding: 8px;
+    font-size: 15px;
+    font-weight: 600;
+    padding-left: 20px;
+    margin-top: 10px;
+    padding-top: 19px;
+    color: white;
+}
+
+#tbl_body_table tr {
+    cursor: pointer;
+}
+
+.highlight {
+    box-shadow: 0 0 6px 2px rgb(73, 233, 81);
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 16px;
+    background-color: rgb(73, 233, 81);
+    height: 100px;
+}
+.btn-primary {
+    background-color: #03a9f4;
+}
+
+.btn-primary:hover {
+        background-color: #1693cc;
+}
+.table > thead > tr > th {
+    background-color: #03a9f4;
+    color: #FFF;
+}
+.table > tfoot > tr > th {
+    background-color: #03a9f4;
+    color: #FFF;
+}
+button.icon-pencil.btnEditar {
+    color: #FFFFFF;
+    background: #337ab7;
+    border: 0 !important;
+    box-shadow: 0 0 0px 2px #3b6990;
+    transition: 0.5s;
+    height: 25px;
+    width: 30px;
+    margin-right: 2px;
+}
+
+button.icon-pencil.btnEditar:hover {
+        box-shadow: 0 0 0px -2px #3b6990;
+}
+
+button.icon-bin.btnDelete {
+    color: #FFFFFF;
+    background: #ff1717;
+    border: 0 !important;
+    box-shadow: 0 0 0px 2px #d81111;
+    transition: 0.5s;
+    height: 25px;
+    width: 30px;
+    margin-top: 6px;
+}
+button.icon-bin.btnDelete:hover {
+        box-shadow: 0 0 0px -2px #d81111;
+    }
+
+
+div.dt-buttons {
+    margin-left: 10px;
+    padding: 5px;
+}
+button.dt-button, div.dt-button, a.dt-button {
+    background-image: linear-gradient(to bottom, #02b11f 0%, #0b6b1c 100%) !important;
+    box-shadow: 0px 0px 0px 2px #147925;
+    border: 0;
+}
+
+button.dt-button:hover {
+        background-image: linear-gradient(to bottom, #36ff59 0%, #0b6b1c 100%) !important;
+        box-shadow: 0px 0px 0px -2px #147925;
+        transition: 0.5s;
+    }
+
+span.icon-file-excel {
+    font-size: 20px;
+    color: #FFFFFF;
+}
+div#tb_rutasAsignadas_filter {
+    color: #9e9e9e;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+#tb_rutasBitacora {
+    width: 100% !important;
+}
+
+/*calendarios*/
+
+img.ui-datepicker-trigger {
+    width: 36px;
+    float: right;
+    margin-top: -35px
+}
+
+.ui-state-default, .ui-widget-content .ui-state-default, .ui-widget-header .ui-state-default, .ui-button, html .ui-button.ui-state-disabled:hover, html .ui-button.ui-state-disabled:active {
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    font-weight: bold;
+    color: #000000;
+}
+
+.ui-widget.ui-widget-content {
+    box-shadow: 3px 1px 15px 0px rgb(0, 0, 0);
+   
+}
+
+.ui-widget-content {
+    background: #ffffff;
+    color: #000000;
+}
+
+.ui-widget-header {
+    border: 1px solid #ffffff;
+    background: #ffffff;
+    color: #333;
+    font-weight: bold;
+}
+.ui-state-highlight, .ui-widget-content .ui-state-highlight, .ui-widget-header .ui-state-highlight {
+        border: 1px solid #dddddd;
+        background: #337ab7;
+        color: #ffffff;
+        font-weight: 700;
+        
+    }
+
+div#MmensajeOrdenFecha {
+    transition: opacity 1s ease-out;
+    opacity: 0;
+    height: 0px;
+    width: 30%;
+    border-radius: 5px;
+    line-height: 0px;
+    margin-top: 10px;
+    background-color: #e61717;
+    margin-left: 5px;
+}

@@ -1,0 +1,95 @@
+﻿#id_precio {
+    width: 70px;
+}
+
+#id_stock {
+    width: 73px;
+}
+
+#id_almacen {
+    width:155px;
+}
+
+#id_unidad {
+    width: 155px;
+}
+#id_cantidad {
+    width: 79px;
+}
+
+input#id_documento, #id_codProducto {
+    width: 150px;
+}
+
+#id_puntoEntrega {
+    width: 200px;
+}
+
+
+#labeltotal{
+    width: 55px;
+    margin-right: 5px;
+    
+}
+
+#labeldesc {
+    width: 50px;
+    margin-right: 5px;
+}
+
+#labelrecargo {
+    
+    width: 70px;
+    margin-right: 5px;
+}
+
+#labelsubtotal {
+    width: 70px;
+    margin-right: 5px;
+}
+
+#labeligv {
+    margin-left: 10px;
+    margin-right: 5px;
+}
+
+#labelPrecio, #lavelStock, #labelAlmacen, #labelUnidad, #labelCantidad {
+    margin-right: 5px;
+}
+
+
+#id_subtotal, #id_recargo, #id_descuento, #id_igv, #id_total {
+    width: 90px;
+    margin-right:2px;
+    
+}
+
+#id_hora, #id_minu{
+    width: 60px;
+}
+
+#d{
+    width:1px;
+}
+
+#labelhora{
+    margin-left:12px;
+    margin-right:10px;
+}
+
+#id_fecha{
+width:120px;
+}
+
+#id_hora {
+    margin-right: 0px;
+}
+
+#id_minu{
+    margin-left:1px;
+}
+
+#labelfecha {
+    margin-left:20px;
+    margin-right:5px;
+}

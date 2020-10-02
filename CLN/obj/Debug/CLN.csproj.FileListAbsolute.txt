@@ -1,0 +1,748 @@
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\bin\Debug\CLN.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\bin\Debug\CLN.pdb
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\bin\Debug\CAD.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\bin\Debug\CEN.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\bin\Debug\CAD.pdb
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\bin\Debug\CEN.pdb
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\obj\Debug\CLN.dll
+E:\CONTROL_CALIDAD_EFE\VIRGEN DEL CARMEN\Versiones\CLN\obj\Debug\CLN.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\bin\Debug\CLN.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\bin\Debug\CLN.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\bin\Debug\CAD.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\bin\Debug\CEN.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\bin\Debug\CAD.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\bin\Debug\CEN.pdb
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\obj\Debug\CLN.dll
+D:\REQUERIMIENTOS\Repositorio Virgen del carmen\repositorio-distribuidoravc\CLN\obj\Debug\CLN.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\bin\Debug\CLN.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\bin\Debug\CLN.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\bin\Debug\CAD.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\bin\Debug\CEN.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\bin\Debug\CAD.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\bin\Debug\CEN.pdb
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\obj\Debug\CLN.dll
+C:\Users\jmacalupu\Desktop\REQ_XXXXX-PASE_XXXXX_EJEMPLO\ADJUNTOS JMS\repositorio-distribuidoravc\CLN\obj\Debug\CLN.pdb
+E:\repositorios\sistema-comercia-web-local\CLN\bin\Debug\CLN.dll
+E:\repositorios\sistema-comercia-web-local\CLN\bin\Debug\CLN.pdb
+E:\repositorios\sistema-comercia-web-local\CLN\bin\Debug\CAD.dll
+E:\repositorios\sistema-comercia-web-local\CLN\bin\Debug\CEN.dll
+E:\repositorios\sistema-comercia-web-local\CLN\bin\Debug\CAD.pdb
+E:\repositorios\sistema-comercia-web-local\CLN\bin\Debug\CEN.pdb
+E:\repositorios\sistema-comercia-web-local\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorios\sistema-comercia-web-local\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorios\sistema-comercia-web-local\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorios\sistema-comercia-web-local\CLN\obj\Debug\CLN.dll
+E:\repositorios\sistema-comercia-web-local\CLN\obj\Debug\CLN.pdb
+E:\Repositorio_Master\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\Repositorio_Master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\Repositorio_Master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\Repositorio_Master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\Repositorio_Master\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\Repositorio_Master\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Repositorio master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\Repositorio master\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Repositorio master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Repositorio master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\Repositorio master\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\Repositorio master\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto\sistema-comercial-web-master-local\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master_backup\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo_master\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\ExcelDataReader.dll
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Repositorio jchumioque\fuentes por homologar\CLN\bin\Debug\ExcelDataReader.xml
+D:\Repositorio jchumioque\fuentes por homologar\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar\CLN\obj\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto-web\sistema-comercial-web-local-master\CLN\obj\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\ExcelDataReader.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\bin\Debug\ExcelDataReader.xml
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\obj\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar 31-01-2020\CLN\obj\Debug\CLN.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\Repositorio_Master_Bitbucket\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\ExcelDataReader.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\bin\Debug\ExcelDataReader.xml
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\obj\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar 06-02-2020\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\master\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto-web\master\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto-web\master\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\master\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\master\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto-web\master\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\master\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\master\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto-web\master\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto-web\master\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\master\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\master\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto-web\master\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto-web\master\CLN\obj\Debug\CLN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\REPOSITORIO VIRGEN DEL CARMEN\repo-compañero\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\Repositorio_WEB_MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\CLN.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\CAD.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\CEN.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\ExcelDataReader.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\CAD.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\CEN.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\bin\Debug\ExcelDataReader.xml
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\obj\Debug\CLN.dll
+D:\Repositorio jchumioque\fuentes por homologar Web 12-02-2020\CLN\obj\Debug\CLN.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\Repositorio_URGENTE\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto-web\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO_\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\AC10\Desktop\MASTER_BD\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\repositorio\sis_com_web\repo-master\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\ENTREGABLE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO3003\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\repositorio\sis_com_web\COPIA\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO0604\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\Usuario\Desktop\SistemaComercial\Proyecto\WEB\E2\repo\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\dgelacio\Desktop\REPO-WEB\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO_1304\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\repositorio\sist_web_virgen_carmen\repo\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\sistema _Comercial\web\repo\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csprojResolveAssemblyReference.cache
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\repositorio\sis_com_web\repo\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\Homologacion\ProyectoVirgendelCarmen\Repo\FASE 2\master\Sistema Web\master_ac\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\CLN.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\CLN.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\CAD.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\CEN.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\itextsharp.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\CAD.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\bin\Debug\itextsharp.xml
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\obj\Debug\CLN.dll
+C:\Users\pyacila\Downloads\CHICO\DESCARGA PRUEBA\CLN\obj\Debug\CLN.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\CLN.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\CLN.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\CAD.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\CEN.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\ExcelDataReader.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\itextsharp.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\Newtonsoft.Json.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\CAD.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\CEN.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\ExcelDataReader.pdb
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\ExcelDataReader.xml
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\bin\Debug\itextsharp.xml
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\obj\Debug\CLN.dll
+D:\jgarcia\proyecto actualizado\sistemacomercialfase2-sistema-comercial-web-16d9b68a9637\CLN\obj\Debug\CLN.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\REPOSITORIO_VIRGEN_DEL_CARMEN\MASTER\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.csprojResolveAssemblyReference.cache
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\DISTRIBUIDORA\proyecto web\e2\repo\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\CLN.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\CLN.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\CAD.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\CEN.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\itextsharp.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\CAD.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\CEN.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\bin\Debug\itextsharp.xml
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\obj\Debug\CLN.dll
+C:\Users\pyacila\Downloads\version Alexis 24-04\CLN\obj\Debug\CLN.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\Proyecto Virgen del Carmen\Distribuidora\Repositorios\Repositorio Web\Master\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\jgarcia\Documents\master\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+D:\repo-local\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+D:\repo-local\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+D:\repo-local\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+D:\repo-local\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+D:\repo-local\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+D:\repo-local\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+E:\repositorio-remoto-web\ENTREGABLE - 2\bitbuket-master\HOMOLOGADO\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+C:\Users\AC10\Desktop\HOMO_2804\sistema-comercial-web\CLN\obj\Debug\CLN.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\CLN.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\CLN.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\CAD.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\CEN.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\itextsharp.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\Newtonsoft.Json.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\CAD.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\CEN.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.pdb
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\ExcelDataReader.xml
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\bin\Debug\itextsharp.xml
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\obj\Debug\CLN.csprojAssemblyReference.cache
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CoreCompileInputs.cache
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\obj\Debug\CLN.csproj.CopyComplete
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\obj\Debug\CLN.dll
+F:\IDE SOLUTION\PROYECTOS IDE\VIRGEN DEL CARMEN\repositorios\repositorio-web\ENTREGABLE-2\sistema-comercial-web\CLN\obj\Debug\CLN.pdb

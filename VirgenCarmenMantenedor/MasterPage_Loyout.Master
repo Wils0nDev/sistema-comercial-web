@@ -1,0 +1,185 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="MasterPage_Loyout.Master.cs" Inherits="VirgenCarmenMantenedor.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
+    <title>SISTEMA DE VENTAS-virgen del carmen</title>
+     <link href="css/panelControl.css" rel="stylesheet" />
+    <link href="css/bootstrap.min.css" rel="stylesheet" />
+     <script src="Scripts/barraNavegacion.js"></script>
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <nav class="navbar navbar-inverse ">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="PanelControl.aspx">ERP-Sistema Comercial</a> 
+        </div>
+          <p class="navbar-text navbar-right" id="nombreUsuario"> </p>      
+      </div>
+    </nav> 
+    <nav class="barra">        
+        <ul class="lista_horizontal">
+            <li class="horizontal_item" > 
+                <a  class="horizontal_link" href="#"> MODULOS</a>
+                <ul class="lista_vertical">
+                    <li id="link_preventa"class="barra_item">
+                        <a class="barra_link"  href="#link_preventa">Ventas</a>
+                        <ul class="submenu">
+                            <li class="submenu_item"><a class="submenu_link" href="registrarpreventa.aspx">Registrar Preventa</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="frmMantPreventa.aspx">Mantenimiento de preventas</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="frmMantCliente.aspx">Mantenimiento de clientes</a></li>            
+                            <li class="submenu_item"><a class="submenu_link" href="frmMantProm.aspx">Mantenimiento de promociones</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="frmMantDescuento.aspx">Mantenimiento de descuentos</a></li>                                    
+                            <li class="submenu_item"><a class="submenu_link" href="RegistroVenta.aspx">Registro de ventas</a></li>                                    
+                        </ul>
+                    </li>            
+                    <li class="barra_item"><a id="link_reportes" class="barra_link" href="#">Reportes</a>
+                        <ul class="submenu">
+                            <li class="submenu_item"><a class="submenu_link" href="#">Reporte 1</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="#">Reporte 2</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="#">Reporte 3</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="#">Reporte 4</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="#">Reporte 5</a></li>
+                           
+                        </ul>
+        
+                    </li>
+                    <li class="barra_item"><a id="link_rutas" class="barra_link" href="#">Rutas y reparto</a>
+                        <ul class="submenu">
+                            <li class="submenu_item"><a class="submenu_link" href="#">Maestro de rutas</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="frmRutasAsignadas.aspx">Asignacion de rutas</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="frmRutasBitacora.aspx">Bitacora de rutas</a></li>            
+                            <li class="submenu_item"><a class="submenu_link" href="#">Asignacion de repartos</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="#">Consultar Reparto</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="frmMantRutas.aspx">Mantenedor rutas</a></li>
+                        </ul>
+        
+                    </li>
+                    <li class="barra_item"><a id="link_facturacion" class="barra_link" href="#">Facturacion</a>
+                        <ul class="submenu">
+                            <li class="submenu_item"><a class="submenu_link" href="#">Facturación</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="#">Buscar/Imprimir Factura o Boleta</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="#">Anular Factura/Boleta</a></li>            
+                            <li class="submenu_item"><a class="submenu_link" href="frmMantDetalleFactura.aspx">Pago de Facturas/Boletas</a></li>
+                            <li class="submenu_item"><a class="submenu_link" href="frmNotaCredito.aspx">Nota de Credito</a></li>
+                        </ul>
+        
+                    </li>
+                    <li class="barra_item"><a id="link_almacen" class="barra_link" href="#">Almacen</a>
+                        <div class="contenedor_submenu">
+                           <ul class="submenu">
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Maestro de artículos</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Despacho de mercaderia</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Recepción de mercaderia</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="frmMantPrecio.aspx">Mantenimiento de precios</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Factor de Distribución</a> </li>
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Fijacion de Precios</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Movimiento de almacenes</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Kardex</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="frmMantStock.aspx">Mantenimiento de stock</a></li>
+                                <li class="submenu_item"><a  class="submenu_link" href="#">Transferencia de almacenes</a></li>
+                           </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_Compras" class="barra_link" href="#">Compras</a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">                        
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro de solicitud de compra</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro de pedidos</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro de de ingreso de mercaderia</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro Factura de proveedores</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_rrhh" class="barra_link" href="#">Recursos Humanos</a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro de Trabajadores</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Generacion de plantilla</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Pago de haberes</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Liquidacion del trabajador</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Cts</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Gratificaciones</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Vacaciones</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="frmMantMetas.aspx">Metas</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="frmMantObjetivo.aspx">Objetivos</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Comisiones</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_administracion" class="barra_link" href="#"> Administración </a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Datos de empresa</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Agenda Persona</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Permisos por perfil</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Usuarios</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Parámetros generales</a> </li> 
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_cxp" class="barra_link" href="#">Ctas. por pagar</a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registrar cts. por pagar</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registrar pagos de cts. por pagar</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Consulta de cts. por pagar</a> </li>  
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_caja" class="barra_link" href="#">Caja</a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">
+                                <li class="submenu_item"><a class="submenu_link"  href="frmMaestroCajas.aspx">Maestro de cajas</a> </li>
+                                <li class="submenu_item"><a class="submenu_link"  href="frmTIposMovimientosCaja.aspx">Registro de tipos de movimientos en caja</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Asignacion de tipo movimiento por caja</a></li>   
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro de ingresos y egresos via caja</a></li>    
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Reporte de movimiento</a>  </li>  
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Arqueo de caja</a> </li>   
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Apertura de caja</a> </li> 
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_cxc" class="barra_link" href="#">Ctas. por cobrar</a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Consulta de cuentas por cobrar</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Estado de cuenta por cliente</a> </li> 
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_cc" class="barra_link" href="#"> Ctas. corrientes</a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro de cuenta corriente</a></li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Registro de Abono y Retiro a cta corriente</a>  </li>
+                                <li class="submenu_item"><a class="submenu_link"  href="#">Consulta de saldo y movimientos</a> </li> 
+                            </ul>
+                        </div>
+                    </li>
+                    <li class="barra_item"><a id="link_perfil" class="barra_link" href="#"> Perfil</a>
+                        <div class="contenedor_submenu">
+                            <ul class="submenu">
+                                <li class="submenu_item"><a class="submenu_link" href="Perfil.aspx">Perfil</a></li>
+                                <li class="submenu_item"><a class="submenu_link" href="frmMantPermisos.aspx">Permisos</a></li>
+                            </ul>
+                        </div>
+                    </li>
+                </ul>
+            </li>
+            <li class="horizontal_item"> <a class="horizontal_link" href="panelControl.aspx"> INICIO</a></li>
+                    
+        </ul>
+    </nav>
+
+
+    <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+    </div>
+</body>
+</html>

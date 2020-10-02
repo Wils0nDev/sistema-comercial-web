@@ -1,0 +1,51 @@
+﻿.box-header {
+    margin-bottom: 50px;
+}
+.form-group.sub-titulo{
+    margin-bottom: 35px;
+}
+
+label#fecharegistro {
+    width: 11%;
+    margin-right: 5px;
+}
+#btnBuscar {
+    float:right;
+}
+
+button#btnRegistrar {
+    float: right;
+}
+
+button#btnGuardar {
+    float: right;
+}
+
+button#btnAperturar {
+    float: right;
+}
+
+button#btnGuardarA {
+    float: right;
+}
+
+.icon-pencil.btnEdAp {
+    color: #FFFFFF;
+    background: #337ab7;
+    border: 0 !important;
+    box-shadow: 0 0 0px 2px #3b6990;
+    transition: 0.5s;
+    height: 25px;
+    width: 30px;
+    border-radius: 0px;
+    margin: 1px;
+    margin-bottom: 5px;
+}
+
+    .icon-pencil.btnEdAp:hover {
+        box-shadow: 0 0 0px -2px #3b6990;
+    }
+
+.swal-modal .swal-text {
+    text-align: center;
+}

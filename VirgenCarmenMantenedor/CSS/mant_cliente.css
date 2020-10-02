@@ -1,0 +1,159 @@
+﻿.form-control {
+    width: 75%;
+}
+.label-default {
+    margin-right: 20px;
+}
+input#btnBuscarCliente {
+    width: 100px;
+    float: right;
+   
+}
+input#btnAgregar {
+    font-weight: bold;
+    font-size: 15px;
+}
+
+.icon-pencil:before {
+    margin-left: -2px;
+}
+.icon-bin:before {
+    margin-left: -2px;
+}
+input#btnReporte {
+    width: 100px;
+    float: right;
+}
+.modalBackground {
+    background-color: Black;
+    filter: alpha(opacity=40);
+    opacity: 0.4;
+}
+.modal-header {
+    margin-bottom: 10px;
+}
+.form-control.select-cliente {
+    float: right;
+}
+
+label {
+    font-size: 13.8px !important;
+}
+
+.form-control#gvMrmPuntosEntrega_cbgvMrmDepartamento {
+    width: 140px !important;
+    margin: 0px !important;
+}
+
+.form-control#gvMrmPuntosEntrega_cbgvMrmProvincia{
+    width: 140px !important;
+    margin: 0px !important;
+}
+
+.form-control#gvMrmPuntosEntrega_cbgvMrmDistrito {
+    width: 140px !important;
+    margin: 0px !important;
+}
+.form-control#gvMrmPuntosEntrega_txtgvMrmOrdenEntrega {
+    width: 85px !important;
+    margin: 0px !important;
+}
+
+.form-control#gvMrmPuntosEntrega_txtgvMrmDireccion {
+    width: 200px !important;
+    margin: 0px !important;
+}
+
+.form-control#gvMrmPuntosEntrega_txtgvMrmReferencia {
+    width: 200px !important;
+    margin: 0px !important;
+}
+
+.modalPopup {
+    top: -80px !important;
+}
+
+.modal-footer {
+    margin-top: 433px;
+}
+.icon-ver.btnVer {
+    border-radius: unset;
+    margin-top: -5px;
+}
+
+.alertify .ajs-header {
+    color: #FFFFFF !important;
+    background: #03a9f4 !important;
+
+}
+.alertify .ajs-footer .ajs-buttons .ajs-button.ajs-ok {
+    color: #FFFFFF !important;
+    background-color: #03a9f4;
+}
+
+/*Paginacion */
+table > tbody > tr > td > a {
+        z-index: 3;
+        color: #fff;
+        cursor: default;
+        background-color: #337ab7;
+        border-color: #337ab7;
+        padding: 4px;
+}
+table > tbody > tr > td > a:hover {
+        color: #fff;
+        background-color: #03a9f4;
+}
+
+div#modalMapClient {
+    z-index: 10002;
+}
+.modal-footer.map-modal {
+    margin-top: 0px;
+    margin-left: 0pc;
+}
+.modal-body.map-modal {
+    
+    padding: 0px;
+}
+
+.col-md-12.modal_body_map {
+    padding: 0px;
+}
+
+button#buttonModals {
+    float: right;
+    width: 70px;
+}
+input#txtMrmDireccion {
+    width: 61.8%;
+}
+
+#labelDir, #txtDireccion,#btnDireccion {
+    float: left;
+}
+label#labelDir {
+    margin-right: 100px;
+}
+.btn-primary.moda-pentrega {
+    width: 200px !important;
+}
+
+#labelMrmNumDocumento {
+    width: 80px;
+}
+.form-group.num-doc {
+    margin-top: -20px;  
+    margin-bottom: -20px;
+}
+
+#labelMrmNumDocumentoVer {
+    width: 80px;
+}
+
+button#btnCancelarModal {
+    float: left;    
+}
+
+
+

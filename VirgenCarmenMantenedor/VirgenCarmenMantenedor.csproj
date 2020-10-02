@@ -1,0 +1,726 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props" Condition="Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" />
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>
+    </ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{2A0FDFB0-D00F-4BE3-AE9A-990CE6E19167}</ProjectGuid>
+    <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VirgenCarmenMantenedor</RootNamespace>
+    <AssemblyName>VirgenCarmenMantenedor</AssemblyName>
+    <TargetFrameworkVersion>v4.7.1</TargetFrameworkVersion>
+    <UseIISExpress>true</UseIISExpress>
+    <Use64BitIISExpress />
+    <IISExpressSSLPort />
+    <IISExpressAnonymousAuthentication />
+    <IISExpressWindowsAuthentication />
+    <IISExpressUseClassicPipelineMode />
+    <UseGlobalApplicationHostFile />
+    <NuGetPackageImportStamp>
+    </NuGetPackageImportStamp>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AjaxControlToolkit, Version=19.1.0.0, Culture=neutral, PublicKeyToken=28f01b0e84b6d53e, processorArchitecture=MSIL">
+      <HintPath>..\packages\AjaxControlToolkit.19.1.0\lib\net40\AjaxControlToolkit.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.3.6.0\lib\net45\ExcelDataReader.dll</HintPath>
+    </Reference>
+    <Reference Include="ExcelDataReader.DataSet, Version=3.6.0.0, Culture=neutral, PublicKeyToken=93517dbe6a4012fa, processorArchitecture=MSIL">
+      <HintPath>..\packages\ExcelDataReader.DataSet.3.6.0\lib\net35\ExcelDataReader.DataSet.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="System.IO.Compression" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Web.Extensions" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Web" />
+    <Reference Include="System.Xml" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Web.Services" />
+    <Reference Include="System.EnterpriseServices" />
+    <Reference Include="System.Web.DynamicData" />
+    <Reference Include="System.Web.Entity" />
+    <Reference Include="System.Web.ApplicationServices" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.bootstrap">
+      <HintPath>..\packages\AspNet.ScriptManager.bootstrap.3.3.7\lib\net45\AspNet.ScriptManager.bootstrap.dll</HintPath>
+    </Reference>
+    <Reference Include="AspNet.ScriptManager.jQuery">
+      <HintPath>..\packages\AspNet.ScriptManager.jQuery.3.3.1\lib\net45\AspNet.ScriptManager.jQuery.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.MSAjax">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.MSAjax.5.0.0\lib\net45\Microsoft.ScriptManager.MSAjax.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.ScriptManager.WebForms">
+      <HintPath>..\packages\Microsoft.AspNet.ScriptManager.WebForms.5.0.0\lib\net45\Microsoft.ScriptManager.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json">
+      <HintPath>..\packages\Newtonsoft.Json.11.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+    </Reference>
+    <Reference Include="WebGrease">
+      <Private>True</Private>
+      <HintPath>..\packages\WebGrease.1.6.0\lib\WebGrease.dll</HintPath>
+    </Reference>
+    <Reference Include="Antlr3.Runtime">
+      <Private>True</Private>
+      <HintPath>..\packages\Antlr.3.5.0.2\lib\Antlr3.Runtime.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.Web.Optimization.WebForms">
+      <Private>True</Private>
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.WebForms.1.1.3\lib\net45\Microsoft.AspNet.Web.Optimization.WebForms.dll</HintPath>
+    </Reference>
+    <Reference Include="Microsoft.AspNet.FriendlyUrls">
+      <HintPath>..\packages\Microsoft.AspNet.FriendlyUrls.Core.1.0.2\lib\net45\Microsoft.AspNet.FriendlyUrls.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Reference Include="Microsoft.CodeDom.Providers.DotNetCompilerPlatform">
+      <HintPath>..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\lib\net45\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="About.aspx" />
+    <Content Include="Contact.aspx" />
+    <Content Include="Content\bootstrap-theme.css" />
+    <Content Include="Content\bootstrap-theme.min.css" />
+    <Content Include="Content\bootstrap.css" />
+    <Content Include="Content\bootstrap.min.css" />
+    <Content Include="Content\Site.css" />
+    <Content Include="css\alertify.min.css" />
+    <Content Include="css\bootstrap-theme.css" />
+    <Content Include="css\bootstrap-theme.min.css" />
+    <Content Include="css\bootstrap.css" />
+    <Content Include="css\bootstrap.min.css" />
+    <Content Include="css\DataTable.css" />
+    <Content Include="css\default.min.css" />
+    <Content Include="css\GridView.css" />
+    <Content Include="css\login.css" />
+    <Content Include="css\maestro_cajas.css" />
+    <Content Include="css\mant_cliente.css" />
+    <Content Include="css\mant_det_factura.css" />
+    <Content Include="css\mant_precios.css" />
+    <Content Include="css\mant_usuario.css" />
+    <Content Include="css\modal_style.css" />
+    <Content Include="css\notacredito.css" />
+    <Content Include="css\panelControl.css" />
+    <Content Include="css\perfil.css" />
+    <Content Include="css\preventa.css" />
+    <Content Include="css\Styles.css" />
+    <Content Include="css\tipos_mov_caja.css" />
+    <Content Include="css\web_general.css" />
+    <Content Include="Default.aspx" />
+    <Content Include="frmMaestroCajas.aspx" />
+    <Content Include="frmMantDescuento.aspx" />
+    <Content Include="frmMantDetalleFactura.aspx" />
+    <Content Include="favicon.ico" />
+    <Content Include="fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="frmCargarExcel.aspx" />
+    <Content Include="frmMantMetas.aspx" />
+    <Content Include="frmMantObjetivo.aspx" />
+    <Content Include="frmMantPermisos.aspx" />
+    <Content Include="frmMantPrecio.aspx" />
+    <Content Include="frmMantPreventa.aspx" />
+    <Content Include="frmMantProducto.aspx" />
+    <Content Include="frmMantProm.aspx" />
+    <Content Include="frmMantRutas.aspx" />
+    <Content Include="frmMantStock.aspx" />
+    <Content Include="frmMantTrabajador.aspx" />
+    <Content Include="frmMantUsuario.aspx" />
+    <Content Include="frmRegistroVenta.aspx" />
+    <Content Include="frmRutasAsignadas.aspx" />
+    <Content Include="frmRutasBitacora.aspx" />
+    <Content Include="frmTIposMovimientosCaja.aspx" />
+    <Content Include="Global.asax" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Content\bootstrap.min.css.map" />
+    <Content Include="Content\bootstrap.css.map" />
+    <Content Include="Content\bootstrap-theme.min.css.map" />
+    <Content Include="Content\bootstrap-theme.css.map" />
+    <Content Include="GoogleMaps_1.aspx" />
+    <Content Include="icon\fonts\icomoon.svg" />
+    <Content Include="icon\style.css" />
+    <Content Include="Imagenes\calendar.gif" />
+    <Content Include="Imagenes\cargar.gif" />
+    <Content Include="Imagenes\editar.png" />
+    <Content Include="Imagenes\logoPdf.png" />
+    <Content Include="Imagenes\ver.png" />
+    <Content Include="JavaScript\bootstrap.js" />
+    <Content Include="JavaScript\bootstrap.min.js" />
+    <Content Include="JavaScript\jquery.js" />
+    <Content Include="JavaScript\npm.js" />
+    <Content Include="frmMantCliente.aspx" />
+    <Content Include="panelControl.aspx" />
+    <Content Include="Perfil.aspx" />
+    <Content Include="Plantilla.aspx" />
+    <Content Include="Scripts\alertify.min.js" />
+    <Content Include="Scripts\barraNavegacion.js" />
+    <Content Include="Scripts\cargar_excel.js" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\css\bootstrap-theme.css.map" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\css\bootstrap.css.map" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\fonts\glyphicons-halflings-regular.eot" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\fonts\glyphicons-halflings-regular.ttf" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\fonts\glyphicons-halflings-regular.woff" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\fonts\glyphicons-halflings-regular.woff2" />
+    <Content Include="css\bootstrap-theme.css.map" />
+    <Content Include="css\bootstrap-theme.min.css.map" />
+    <Content Include="css\bootstrap.css.map" />
+    <Content Include="css\bootstrap.min.css.map" />
+    <Content Include="icon\fonts\icomoon.eot" />
+    <Content Include="icon\fonts\icomoon.ttf" />
+    <Content Include="icon\fonts\icomoon.woff" />
+    <Content Include="icon\selection.json" />
+    <Content Include="login.aspx" />
+    <Content Include="recuperarContraseña.aspx" />
+    <Content Include="registrarpreventa.aspx" />
+    <Content Include="frmNotaCredito.aspx" />
+    <Content Include="RegistroVenta.aspx" />
+    <Content Include="GoogleMaps.aspx" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <None Include="Scripts\jquery-3.3.1.intellisense.js" />
+    <Content Include="Imagenes\ico_edit.png" />
+    <Content Include="Imagenes\save.png" />
+    <Content Include="Scripts\bootstrap.js" />
+    <Content Include="Scripts\bootstrap.min.js" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\css\bootstrap-theme.css" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\css\bootstrap-theme.min.css" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\css\bootstrap.css" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\css\bootstrap.min.css" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\fonts\glyphicons-halflings-regular.svg" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\js\bootstrap.js" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\js\bootstrap.min.js" />
+    <Content Include="Scripts\DataTable\Bootstrap-3.3.7\js\npm.js" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\css\buttons.dataTables.min.css" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\js\buttons.flash.min.js" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\js\buttons.html5.min.js" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\js\buttons.print.min.js" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\js\dataTables.buttons.min.js" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\js\jszip.min.js" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\js\pdfmake.min.js" />
+    <Content Include="Scripts\DataTable\Buttons-1.6.1\js\vfs_fonts.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.bootstrap.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.bootstrap.min.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.bootstrap4.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.bootstrap4.min.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.foundation.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.foundation.min.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.jqueryui.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.jqueryui.min.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.semanticui.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\dataTables.semanticui.min.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\jquery.dataTables.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\css\jquery.dataTables.min.css" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\images\sort_asc.png" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\images\sort_asc_disabled.png" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\images\sort_both.png" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\images\sort_desc.png" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\images\sort_desc_disabled.png" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.bootstrap.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.bootstrap.min.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.bootstrap4.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.bootstrap4.min.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.foundation.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.foundation.min.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.jqueryui.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.jqueryui.min.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.semanticui.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\dataTables.semanticui.min.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\jquery.dataTables.js" />
+    <Content Include="Scripts\DataTable\DataTables-1.10.20\js\jquery.dataTables.min.js" />
+    <Content Include="Scripts\DataTable\datatables.css" />
+    <Content Include="Scripts\DataTable\datatables.js" />
+    <Content Include="Scripts\DataTable\datatables.min.css" />
+    <Content Include="Scripts\DataTable\datatables.min.js" />
+    <Content Include="Scripts\DataTable\jQuery-3.3.1\jquery-3.3.1.js" />
+    <Content Include="Scripts\DataTable\jQuery-3.3.1\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\descuento_ajax.js" />
+    <Content Include="Scripts\eventos.js" />
+    <Content Include="Scripts\Facturacion.js" />
+    <Content Include="Scripts\frmLogin.js" />
+    <Content Include="Scripts\frmRecuperarContr.js" />
+    <Content Include="Scripts\frmTrabajador_ajax.js" />
+    <Content Include="Scripts\frmUsuario_ajax.js" />
+    <Content Include="Scripts\maestro_cajas.js" />
+    <Content Include="Scripts\mantObjetivo.js" />
+    <Content Include="Scripts\MantRutas.js" />
+    <Content Include="Scripts\mant_cliente.js" />
+    <Content Include="Scripts\mant_detalle_factura.js" />
+    <Content Include="Scripts\mant_pagoFactura.js" />
+    <Content Include="Scripts\GoogleMaps.js" />
+    <Content Include="Scripts\GoogleMapsClient.js" />
+    <Content Include="Scripts\JavaScriptMantCliente.js" />
+    <Content Include="Scripts\jquery-3.3.1.js" />
+    <Content Include="Scripts\jquery-3.3.1.min.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.js" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.js" />
+    <Content Include="Scripts\jqueryui\external\jquery\jquery.js" />
+    <Content Include="Scripts\jqueryui\images\ui-icons_444444_256x240.png" />
+    <Content Include="Scripts\jqueryui\jquery-ui.css" />
+    <Content Include="Scripts\jqueryui\jquery-ui.js" />
+    <Content Include="Scripts\jqueryui\jquery-ui.min.css" />
+    <Content Include="Scripts\jqueryui\jquery-ui.min.js" />
+    <Content Include="Scripts\jqueryui\jquery-ui.structure.css" />
+    <Content Include="Scripts\jqueryui\jquery-ui.structure.min.css" />
+    <Content Include="Scripts\jqueryui\jquery-ui.theme.css" />
+    <Content Include="Scripts\jqueryui\jquery-ui.theme.min.css" />
+    <Content Include="Scripts\jqueryui\LICENSE.txt" />
+    <Content Include="Scripts\JSPrecio.js" />
+    <Content Include="Scripts\meta.js" />
+    <Content Include="Scripts\modernizr-2.8.3.js" />
+    <Content Include="Scripts\moment.min.js" />
+    <Content Include="Scripts\notacredito_ajax.js" />
+    <Content Include="Scripts\perfil.js" />
+    <Content Include="Scripts\permisos.js" />
+    <Content Include="Scripts\peticiones_ajax.js" />
+    <Content Include="Scripts\peticiones_bitacora.js" />
+    <Content Include="Scripts\Plantilla.js" />
+    <Content Include="Scripts\preventaMant_ajax.js" />
+    <Content Include="Scripts\preventa_ajax.js" />
+    <Content Include="Scripts\producto.js" />
+    <Content Include="Scripts\RegistProm.js" />
+    <Content Include="Scripts\sweetalert.min.js" />
+    <Content Include="Scripts\tipos_mov_caja.js" />
+    <Content Include="Scripts\WebForms\DetailsView.js" />
+    <Content Include="Scripts\WebForms\Focus.js" />
+    <Content Include="Scripts\WebForms\GridView.js" />
+    <Content Include="Scripts\WebForms\Menu.js" />
+    <Content Include="Scripts\WebForms\MenuStandards.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjax.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxApplicationServices.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxComponentModel.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxCore.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxGlobalization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxHistory.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxNetwork.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxSerialization.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxTimer.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebForms.js" />
+    <Content Include="Scripts\WebForms\MSAjax\MicrosoftAjaxWebServices.js" />
+    <Content Include="Scripts\WebForms\RegistProm.js" />
+    <Content Include="Scripts\WebForms\SmartNav.js" />
+    <Content Include="Scripts\WebForms\TreeView.js" />
+    <Content Include="Scripts\WebForms\WebForms.js" />
+    <Content Include="Scripts\WebForms\WebParts.js" />
+    <Content Include="Scripts\WebForms\WebUIValidation.js" />
+    <Content Include="Scripts\web_general.js" />
+    <Content Include="Site.Master" />
+    <Content Include="ViewSwitcher.ascx" />
+    <Content Include="Web.config">
+      <SubType>Designer</SubType>
+    </Content>
+    <Content Include="Bundle.config" />
+    <Content Include="Site.Mobile.Master" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="App_Start\BundleConfig.cs" />
+    <Compile Include="About.aspx.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="About.aspx.designer.cs">
+      <DependentUpon>About.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="App_Start\RouteConfig.cs" />
+    <Compile Include="Contact.aspx.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Contact.aspx.designer.cs">
+      <DependentUpon>Contact.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Default.aspx.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Default.aspx.designer.cs">
+      <DependentUpon>Default.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMaestroCajas.aspx.cs">
+      <DependentUpon>frmMaestroCajas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMaestroCajas.aspx.designer.cs">
+      <DependentUpon>frmMaestroCajas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantDescuento.aspx.cs">
+      <DependentUpon>frmMantDescuento.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantDescuento.aspx.designer.cs">
+      <DependentUpon>frmMantDescuento.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantDetalleFactura.aspx.cs">
+      <DependentUpon>frmMantDetalleFactura.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantDetalleFactura.aspx.designer.cs">
+      <DependentUpon>frmMantDetalleFactura.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmCargarExcel.aspx.cs">
+      <DependentUpon>frmCargarExcel.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmCargarExcel.aspx.designer.cs">
+      <DependentUpon>frmCargarExcel.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantMetas.aspx.cs">
+      <DependentUpon>frmMantMetas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantMetas.aspx.designer.cs">
+      <DependentUpon>frmMantMetas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantObjetivo.aspx.cs">
+      <DependentUpon>frmMantObjetivo.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantObjetivo.aspx.designer.cs">
+      <DependentUpon>frmMantObjetivo.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantPermisos.aspx.cs">
+      <DependentUpon>frmMantPermisos.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantPermisos.aspx.designer.cs">
+      <DependentUpon>frmMantPermisos.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantPrecio.aspx.cs">
+      <DependentUpon>frmMantPrecio.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantPrecio.aspx.designer.cs">
+      <DependentUpon>frmMantPrecio.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantPreventa.aspx.cs">
+      <DependentUpon>frmMantPreventa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantPreventa.aspx.designer.cs">
+      <DependentUpon>frmMantPreventa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantProducto.aspx.cs">
+      <DependentUpon>frmMantProducto.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantProducto.aspx.designer.cs">
+      <DependentUpon>frmMantProducto.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantProm.aspx.cs">
+      <DependentUpon>frmMantProm.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantProm.aspx.designer.cs">
+      <DependentUpon>frmMantProm.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantRutas.aspx.cs">
+      <DependentUpon>frmMantRutas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantRutas.aspx.designer.cs">
+      <DependentUpon>frmMantRutas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantStock.aspx.cs">
+      <DependentUpon>frmMantStock.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantStock.aspx.designer.cs">
+      <DependentUpon>frmMantStock.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantTrabajador.aspx.cs">
+      <DependentUpon>frmMantTrabajador.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantTrabajador.aspx.designer.cs">
+      <DependentUpon>frmMantTrabajador.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantUsuario.aspx.cs">
+      <DependentUpon>frmMantUsuario.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantUsuario.aspx.designer.cs">
+      <DependentUpon>frmMantUsuario.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmRegistroVenta.aspx.cs">
+      <DependentUpon>frmRegistroVenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmRegistroVenta.aspx.designer.cs">
+      <DependentUpon>frmRegistroVenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmRutasAsignadas.aspx.cs">
+      <DependentUpon>frmRutasAsignadas.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmRutasAsignadas.aspx.designer.cs">
+      <DependentUpon>frmRutasAsignadas.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmRutasBitacora.aspx.cs">
+      <DependentUpon>frmRutasBitacora.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmRutasBitacora.aspx.designer.cs">
+      <DependentUpon>frmRutasBitacora.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmTIposMovimientosCaja.aspx.cs">
+      <DependentUpon>frmTIposMovimientosCaja.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmTIposMovimientosCaja.aspx.designer.cs">
+      <DependentUpon>frmTIposMovimientosCaja.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Global.asax.cs">
+      <DependentUpon>Global.asax</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleMaps_1.aspx.cs">
+      <DependentUpon>GoogleMaps_1.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GoogleMaps_1.aspx.designer.cs">
+      <DependentUpon>GoogleMaps_1.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmMantCliente.aspx.cs">
+      <DependentUpon>frmMantCliente.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmMantCliente.aspx.designer.cs">
+      <DependentUpon>frmMantCliente.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="panelControl.aspx.cs">
+      <DependentUpon>panelControl.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="panelControl.aspx.designer.cs">
+      <DependentUpon>panelControl.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Perfil.aspx.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Perfil.aspx.designer.cs">
+      <DependentUpon>Perfil.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Plantilla.aspx.cs">
+      <DependentUpon>Plantilla.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Plantilla.aspx.designer.cs">
+      <DependentUpon>Plantilla.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+      <DependentUpon>Settings.settings</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Master.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Master.designer.cs">
+      <DependentUpon>Site.Master</DependentUpon>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Site.Mobile.Master.designer.cs">
+      <DependentUpon>Site.Mobile.Master</DependentUpon>
+    </Compile>
+    <Compile Include="MasterPage_Loyout.Master.cs">
+      <DependentUpon>MasterPage_Loyout.Master</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="MasterPage_Loyout.Master.designer.cs">
+      <DependentUpon>MasterPage_Loyout.Master</DependentUpon>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="ViewSwitcher.ascx.designer.cs">
+      <DependentUpon>ViewSwitcher.ascx</DependentUpon>
+    </Compile>
+    <Compile Include="login.aspx.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="login.aspx.designer.cs">
+      <DependentUpon>login.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="recuperarContraseña.aspx.cs">
+      <DependentUpon>recuperarContraseña.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="recuperarContraseña.aspx.designer.cs">
+      <DependentUpon>recuperarContraseña.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="registrarpreventa.aspx.cs">
+      <DependentUpon>registrarpreventa.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="registrarpreventa.aspx.designer.cs">
+      <DependentUpon>registrarpreventa.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="frmNotaCredito.aspx.cs">
+      <DependentUpon>frmNotaCredito.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="frmNotaCredito.aspx.designer.cs">
+      <DependentUpon>frmNotaCredito.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="RegistroVenta.aspx.cs">
+      <DependentUpon>RegistroVenta.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="RegistroVenta.aspx.designer.cs">
+      <DependentUpon>RegistroVenta.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="GoogleMaps.aspx.cs">
+      <DependentUpon>GoogleMaps.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="GoogleMaps.aspx.designer.cs">
+      <DependentUpon>GoogleMaps.aspx</DependentUpon>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="App_Data\" />
+    <Folder Include="icon\js\" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="packages.config" />
+    <Content Include="Scripts\jquery-3.3.1.slim.min.map" />
+    <Content Include="Scripts\jquery-3.3.1.min.map" />
+    <Content Include="Scripts\jqueryui\package.json" />
+    <Content Include="MasterPage_Loyout.Master" />
+    <None Include="Web.Debug.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+    <None Include="Web.Release.config">
+      <DependentUpon>Web.config</DependentUpon>
+    </None>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CAD\CAD.csproj">
+      <Project>{f1cc33aa-94b6-4e34-8c3b-458c51e21473}</Project>
+      <Name>CAD</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CEN\CEN.csproj">
+      <Project>{9b1a291f-ca77-4b6e-9998-856c2e9e859d}</Project>
+      <Name>CEN</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\CLN\CLN.csproj">
+      <Project>{d4a40b87-3bfe-45b4-b812-6b9cadb1c857}</Project>
+      <Name>CLN</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="Microsoft.Office.Core">
+      <Guid>{2DF8D04C-5BFA-101B-BDE5-00AA0044DE52}</Guid>
+      <VersionMajor>2</VersionMajor>
+      <VersionMinor>8</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="Microsoft.Office.Interop.Excel">
+      <Guid>{00020813-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>9</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+    <COMReference Include="VBIDE">
+      <Guid>{0002E157-0000-0000-C000-000000000046}</Guid>
+      <VersionMajor>5</VersionMajor>
+      <VersionMinor>3</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>primary</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <PropertyGroup>
+    <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
+    <VSToolsPath Condition="'$(VSToolsPath)' == ''">$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)</VSToolsPath>
+  </PropertyGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(VSToolsPath)\WebApplications\Microsoft.WebApplication.targets" Condition="'$(VSToolsPath)' != ''" />
+  <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v10.0\WebApplications\Microsoft.WebApplication.targets" Condition="false" />
+  <ProjectExtensions>
+    <VisualStudio>
+      <FlavorProperties GUID="{349c5851-65df-11da-9384-00065b846f21}">
+        <WebProjectProperties>
+          <UseIIS>True</UseIIS>
+          <AutoAssignPort>True</AutoAssignPort>
+          <DevelopmentServerPort>51573</DevelopmentServerPort>
+          <DevelopmentServerVPath>/</DevelopmentServerVPath>
+          <IISUrl>http://localhost:51573/</IISUrl>
+          <NTLMAuthentication>False</NTLMAuthentication>
+          <UseCustomServer>False</UseCustomServer>
+          <CustomServerUrl>
+          </CustomServerUrl>
+          <SaveServerSettingsInUserFile>False</SaveServerSettingsInUserFile>
+        </WebProjectProperties>
+      </FlavorProperties>
+    </VisualStudio>
+  </ProjectExtensions>
+  <Target Name="EnsureNuGetPackageBuildImports" BeforeTargets="PrepareForBuild">
+    <PropertyGroup>
+      <ErrorText>Este proyecto hace referencia a los paquetes NuGet que faltan en este equipo. Use la restauración de paquetes NuGet para descargarlos. Para obtener más información, consulte http://go.microsoft.com/fwlink/?LinkID=322105. El archivo que falta es {0}.</ErrorText>
+    </PropertyGroup>
+    <Error Condition="!Exists('..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props')" Text="$([System.String]::Format('$(ErrorText)', '..\packages\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.2.0.0\build\net46\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.props'))" />
+  </Target>
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
