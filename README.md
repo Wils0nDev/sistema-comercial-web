@@ -9,10 +9,10 @@
   etc.
   
  tecnologias:
- .net framework 4.7
- backend : c# - poo
- bd : slq server
- frontend : javascript(jquery,ajax, datatable,jqueryui), htnl, css
- arquitectura: capas
+ - .net framework 4.7
+ -backend : c# - poo
+ - bd : slq server
+ - frontend : javascript(jquery,ajax, datatable,jqueryui), htnl, css
+ - arquitectura: capas
  
   
